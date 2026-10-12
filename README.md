@@ -45,11 +45,4 @@ I build intelligent, data-driven applications by combining machine learning, dat
 
 ---
 
-### 🤝 Let's Connect
-
-- 💼 LinkedIn: [Add your LinkedIn URL](www.linkedin.com/in/nikhil-shinde-74bbb5213)
-- 📧 Email: Add your professional email
-- 🌐 GitHub: [Explore my repositories](https://github.com/botnikhil17)
-
----
 ⭐ *Always learning, building, and experimenting with AI.*
